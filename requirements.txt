@@ -1,0 +1,7 @@
+gnews==0.3.8
+matplotlib==3.9.2
+numpy==1.26.4
+ollama==0.3.3
+pandas==2.2.3
+transformers==4.45.1
+yfinance==0.2.43
